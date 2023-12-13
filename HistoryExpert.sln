@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34309.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "HistoryExpert", "HistoryExpert\HistoryExpert.vcxproj", "{200CC6AD-9DE8-47D0-B5A3-1F7D00C70003}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Элементы решения", "Элементы решения", "{2B58634F-6346-4FB4-B3C8-61F0C2FC4E7C}"
+	ProjectSection(SolutionItems) = preProject
+		.gitignore = .gitignore
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{200CC6AD-9DE8-47D0-B5A3-1F7D00C70003}.Debug|x64.ActiveCfg = Debug|x64
+		{200CC6AD-9DE8-47D0-B5A3-1F7D00C70003}.Debug|x64.Build.0 = Debug|x64
+		{200CC6AD-9DE8-47D0-B5A3-1F7D00C70003}.Debug|x86.ActiveCfg = Debug|Win32
+		{200CC6AD-9DE8-47D0-B5A3-1F7D00C70003}.Debug|x86.Build.0 = Debug|Win32
+		{200CC6AD-9DE8-47D0-B5A3-1F7D00C70003}.Release|x64.ActiveCfg = Release|x64
+		{200CC6AD-9DE8-47D0-B5A3-1F7D00C70003}.Release|x64.Build.0 = Release|x64
+		{200CC6AD-9DE8-47D0-B5A3-1F7D00C70003}.Release|x86.ActiveCfg = Release|Win32
+		{200CC6AD-9DE8-47D0-B5A3-1F7D00C70003}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {57B011A1-7AD5-4482-8011-2241D52F8D3D}
+	EndGlobalSection
+EndGlobal
